@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb7fd39-3c79-42c0-a8d3-dcd71f159e44" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/IQ Test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/Sum of Digits or Digital Root.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/Unique In Order.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/Write Number in Expanded Form.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/List Filtering.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/Square Every Digit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Two Sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/Two Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6 kyu/Two Sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/Two Sum.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +14,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Two Sum.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6 kyu/Two Sum.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="425">
+                <caret line="27" selection-start-line="27" selection-end-line="35" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Sum of Digits or Digital Root.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6 kyu/Sum of Digits or Digital Root.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -48,20 +54,20 @@
         <entry file="file://$PROJECT_DIR$/6 kyu/Unique In Order.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="506">
-                <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <first_editor relative-caret-position="638">
+                <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Square Every Digit.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Square Every Digit.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7 kyu/Square Every Digit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="506">
-                <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <first_editor relative-caret-position="557">
+                <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,13 +95,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Two Sum.md" />
-        <option value="$PROJECT_DIR$/6 kyu/Two Sum.md" />
         <option value="$PROJECT_DIR$/6 kyu/IQ Test.md" />
         <option value="$PROJECT_DIR$/7 kyu/List Filtering.md" />
         <option value="$PROJECT_DIR$/6 kyu/Sum of Digits or Digital Root.md" />
         <option value="$PROJECT_DIR$/6 kyu/Write Number in Expanded Form.md" />
-        <option value="$PROJECT_DIR$/6 kyu/Unique In Order.md" />
         <option value="$PROJECT_DIR$/7 kyu/Square Every Digit.md" />
+        <option value="$PROJECT_DIR$/6 kyu/Unique In Order.md" />
+        <option value="$PROJECT_DIR$/6 kyu/Two Sum.md" />
       </list>
     </option>
   </component>
@@ -179,12 +185,12 @@
       <updated>1603029864833</updated>
       <workItem from="1603029867044" duration="222000" />
       <workItem from="1603030211352" duration="2842000" />
-      <workItem from="1603800604191" duration="6093000" />
+      <workItem from="1603800604191" duration="6368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9157000" />
+    <option name="totallyTimeSpent" value="9432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -248,16 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6 kyu/Two Sum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="726">
-            <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6 kyu/IQ Test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -301,8 +297,8 @@
     <entry file="file://$PROJECT_DIR$/6 kyu/Unique In Order.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="506">
-            <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <first_editor relative-caret-position="638">
+            <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -311,8 +307,18 @@
     <entry file="file://$PROJECT_DIR$/7 kyu/Square Every Digit.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="506">
-            <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <first_editor relative-caret-position="557">
+            <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 kyu/Two Sum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="27" selection-start-line="27" selection-end-line="35" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>

@@ -13,7 +13,7 @@ Given n, take the sum of the digits of n. If that value has more than one digit,
 ```
 
 ##### 想法
-
+把數字轉字串切割成矩陣後加總，如果大於 10 表示仍需繼續計算
 
 #### Solution
 ```
